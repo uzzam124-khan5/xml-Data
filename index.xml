@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="index.xsl" type="text/xsl"?>
+<?xml-model href="index.dtd" type="application/xml-dtd"?>
+<?xml-model href="index.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<html>
+        
+    <stationary>
+        <productid>1.</productid>
+        <productname>Pencil </productname>
+        <quality>1200 Units</quality>
+        <priceunit>10</priceunit>
+        <priceperdozen>110</priceperdozen>
+        <instock>Yes</instock>
+    </stationary>
+    
+    <stationary>
+        <productid>2.</productid>
+        <productname>Pen</productname>
+        <quality>6000 Units</quality>
+        <priceunit>60</priceunit>
+        <priceperdozen>700</priceperdozen>
+        <instock>Yes</instock>
+    </stationary>
+    <stationary>
+        <productid>3.</productid>
+        <productname>Eraser</productname>
+        <quality>1500 Units</quality>
+        <priceunit>7</priceunit>
+        <priceperdozen>80</priceperdozen>
+        <instock>Yes</instock>
+    </stationary>
+    <stationary>
+        <productid>4.</productid>
+        <productname>Sharpner</productname>
+        <quality>0 units</quality>
+        <priceunit>10</priceunit>
+        <priceperdozen>110</priceperdozen>
+        <instock>No</instock>
+    </stationary>
+    <stationary>
+        <productid>5.</productid>
+        <productname>Board Marker</productname>
+        <quality>500 Units</quality>
+        <priceunit>80</priceunit>
+        <priceperdozen>960</priceperdozen>
+        <instock>Yes</instock>
+    </stationary>
+    <stationary>
+        <productid>6.</productid>
+        <productname>Hi-lighter</productname>
+        <quality>700 Units</quality>
+        <priceunit>20</priceunit>
+        <priceperdozen>240</priceperdozen>
+        <instock>Yes</instock>
+    </stationary>
+    <stationary>
+        <productid>7.</productid>
+        <productname>Color Pencil</productname>
+        <quality>600 Units</quality>
+        <priceunit>19.3</priceunit>
+        <priceperdozen>230</priceperdozen>
+        <instock>Yes</instock>
+    </stationary>
+    <stationary>
+        <productid>8.</productid>
+        <productname>Scissors</productname>
+        <quality>200 Units</quality>
+        <priceunit>15</priceunit>
+        <priceperdozen>230</priceperdozen>
+        <instock>Yes</instock>
+    </stationary>
+</html>

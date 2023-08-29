@@ -1,0 +1,8 @@
+<!ELEMENT html (stationary+)>
+<!ELEMENT stationary (productid, productname, quality, priceunit, priceperdozen, instock)>
+<!ELEMENT productid (#PCDATA)>
+<!ELEMENT productname (#PCDATA)>
+<!ELEMENT quality (#PCDATA)>
+<!ELEMENT priceunit (#PCDATA)>
+<!ELEMENT priceperdozen (#PCDATA)>
+<!ELEMENT instock (#PCDATA)>
